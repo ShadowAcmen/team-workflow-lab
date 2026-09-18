@@ -1,0 +1,6 @@
+三咲刚刚push完就修改了，还没commit呢
+【此时大号pull了，大号自行pull了笔记】
+
+之后三咲commit之后push
+
+最后大号自行修改之后commit之后push，看看会不会冲突
