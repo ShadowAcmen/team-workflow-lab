@@ -1,6 +1,6 @@
-三咲刚刚push完就修改了，还没commit呢
+三咲刚刚 push↑ 完就修改了，还没commit呢
 
-此时大号pull了
+此时大号 pull↓ 了
 
 之后三咲commit之后push
 
