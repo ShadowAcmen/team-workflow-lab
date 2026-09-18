@@ -1,7 +1,5 @@
 三咲刚刚 push↑ 完就修改了，还没commit呢
 
-此时大号 pull↓ 了
-
 之后三咲commit之后push
 
 最后大号自行修改之后commit之后push，看看会不会冲突
